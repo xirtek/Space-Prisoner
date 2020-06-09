@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 2b42b938d060a6241b6c3915b10f1b2c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: __jet_pack_man_with_weapon_standing_idle_0
+    21300002: __jet_pack_man_with_weapon_standing_idle_1
+    21300004: __jet_pack_man_with_weapon_standing_idle_2
+    21300006: __jet_pack_man_with_weapon_standing_idle_3
+    21300008: __jet_pack_man_with_weapon_standing_idle_4
+    21300010: __jet_pack_man_with_weapon_standing_idle_5
+    21300012: __jet_pack_man_with_weapon_standing_idle_6
+    21300014: __jet_pack_man_with_weapon_standing_idle_7
+    21300016: __jet_pack_man_with_weapon_standing_idle_8
+    21300018: __jet_pack_man_with_weapon_standing_idle_9
+    21300020: __jet_pack_man_with_weapon_standing_idle_10
+    21300022: __jet_pack_man_with_weapon_standing_idle_11
+    21300024: __jet_pack_man_with_weapon_standing_idle_12
+    21300026: __jet_pack_man_with_weapon_standing_idle_13
+    21300028: __jet_pack_man_with_weapon_standing_idle_14
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1381
+        width: 366
+        height: 521
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12cb949b528384c8c0a4ac1ae15bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_1
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1381
+        width: 364
+        height: 521
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0bbd80e540e24780cdd1045005ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_2
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1381
+        width: 364
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975d8b35c593f5408ddbafdff6a668f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_3
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 1381
+        width: 366
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaa61c347c9ef24397fe2f8850bb21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_4
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 1381
+        width: 363
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60013f60799992840b8b2fd363a57085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 742
+        width: 363
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8341d88d778dc944bbf053255761802b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 742
+        width: 366
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90425305ebb2add4b93e45814c07672f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_7
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 742
+        width: 364
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3dd0407abb0c429bcfb0402551ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 742
+        width: 364
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b40e9df79b9ce429fce8ddcf81f198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_9
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 742
+        width: 365
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d657445da960d41a9ed5e5dc6dea67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 103
+        width: 363
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a2f48b87d31a4ca574f99a580efed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 103
+        width: 366
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414444aa8a2a124481f6de4218062fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_12
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 103
+        width: 364
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ac92c167bbdb4bbb6d0d6afb8cc5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_13
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 103
+        width: 366
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f489988e63ec764ab7051c538b98777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_standing_idle_14
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 103
+        width: 363
+        height: 521
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5706dda60b66741a1c33bef68a50ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a2cebc35c093ac64d900d59ad65e348f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

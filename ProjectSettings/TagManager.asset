@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plataforma
+  - Fondo
+  - Llaves
+  - ZonaMuerte
+  - PausaElement
+  - Enemigo
+  - Escalera
+  - savePos
+  - Jugador
+  - Puerta1
+  - Puerta2
+  - Puerta3
+  - Point
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fondo
+    uniqueID: 2053395723
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MuroNegro
+    uniqueID: 943057759
+    locked: 0
+  - name: MuroNegroEscaleraFalsa
+    uniqueID: 3185201953
+    locked: 0
+  - name: Escalera
+    uniqueID: 2817486695
+    locked: 0
+  - name: Plataforma
+    uniqueID: 1832739765
+    locked: 0
+  - name: Puerta
+    uniqueID: 436083215
+    locked: 0
+  - name: Player
+    uniqueID: 3755886379
+    locked: 0
+  - name: Llave
+    uniqueID: 3993584937
+    locked: 0
+  - name: Level
+    uniqueID: 371317191
+    locked: 0
