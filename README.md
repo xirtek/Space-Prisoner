@@ -14,4 +14,4 @@ El juego es de tipo plataformas 2d y se pensó para ser utliizado como un ejecut
 - Pulsar "Play!"
 
 ## Video del juego funcionando
-- [Ver en Youtube](https://www.youtube.com/watch?v=rVR9SH6BjPs)
+- [Ver en Youtube](https://www.youtube.com/watch?v=b_DkCPBmLpc)
